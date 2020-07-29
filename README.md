@@ -10,6 +10,7 @@ Email : karaman.iremm@gmail.com
 
 Developer Environment
 -IDE : Visual Studio 2019 with C++ Developer Pack
+
 -Operation System : Windows 10 Pro
 
 Run Project : 
