@@ -1,4 +1,4 @@
-### ulakProject
+### UlakProject
 Shortest Path Algorithm with Dijkstra and Bellman Ford for Ulak Project
 
 Developer : Irem Karaman
@@ -26,6 +26,7 @@ Description Projects Algorithm :
 
 
 -Dijsktra Algorithm
+  
   Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph.
 
 -Bellman Ford Algorithm
