@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\TOSHIBA\source\repos\UlakProject\UlakProject.Test\test.cpp(2,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  UlakProject.Test.vcxproj -> C:\Users\TOSHIBA\source\repos\UlakProject\Debug\UlakProject.Test.exe
