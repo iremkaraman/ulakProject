@@ -36,6 +36,9 @@ Description Projects Algorithm :
 
   The Bellman–Ford algorithm is an algorithm that computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph.It is slower than Dijkstra's algorithm for the same problem, but more versatile, as it is capable of handling graphs in which some of the edge weights are negative numbers.
   
+ For example:
+ 
+  
   ![schema](https://user-images.githubusercontent.com/68869361/88785780-4d48b200-d19a-11ea-8fc8-7995fc039c01.jpeg)
   
   
