@@ -2,7 +2,9 @@
 Shortest Path Algorithm with Dijkstra and Bellman Ford for Ulak Project
 
 Developer : Irem Karaman
+
 Contact Information : 
+
 Email : karaman.iremm@gmail.com
 
 
@@ -19,6 +21,7 @@ Run Project :
 - Run selected project
 
 - Run Unit Test Project
+
 - Select Test Explorer in "Test(Visual Studio Toolbar)"
 - Run UlakProject.Test project.
 
